@@ -1,0 +1,12 @@
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\obj\Debug\Seçim_Grafik_İstatistik.csproj.AssemblyReference.cache
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\obj\Debug\Seçim_Grafik_İstatistik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\obj\Debug\Seçim_Grafik_İstatistik.FrmGiris.resources
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\obj\Debug\Seçim_Grafik_İstatistik.Properties.Resources.resources
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\obj\Debug\Seçim_Grafik_İstatistik.csproj.GenerateResource.cache
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\obj\Debug\Seçim_Grafik_İstatistik.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\bin\Debug\Seçim_Grafik_İstatistik.exe.config
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\bin\Debug\Seçim_Grafik_İstatistik.exe
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\bin\Debug\Seçim_Grafik_İstatistik.pdb
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\obj\Debug\Seçim_Grafik_İstatistik.exe
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\obj\Debug\Seçim_Grafik_İstatistik.pdb
+C:\Users\Gizem\source\repos\Seçim_Grafik_İstatistik\obj\Debug\Seçim_Grafik_İstatistik.FrmGrafik.resources
